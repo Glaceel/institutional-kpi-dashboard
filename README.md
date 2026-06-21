@@ -56,7 +56,7 @@ Bash
    git clone [https://github.com/YOUR_USERNAME/institutional-kpi-dashboard.git](https://github.com/Glaceel/institutional-kpi-dashboard.git)
 ```
 
-Open the Final Report Penelitian & Publikasi(1).pbit file inside the src/ folder using Power BI Desktop.
+Open the institutional-kpi-dashboard.pbit file inside the src/ folder using Power BI Desktop.
 
 Upon opening, Power BI will prompt you to input or connect your local database/Excel data source matching the expected data schema.
 
