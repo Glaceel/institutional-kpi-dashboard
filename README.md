@@ -46,7 +46,7 @@ Granular Slicers / Filters: Easily slice the entire report by Year (Tahun) and P
 Dynamic Semantic Modeling: Structured cross-filtering and relationships designed to maintain model efficiency while handling large datasets.
 
  ## 🖥️ Preview / Showcase
-(preview.png)
+![Langflow Architecture](preview.png)
 
 ## ⚙️ How to Use this Template
 Clone or download this repository:
