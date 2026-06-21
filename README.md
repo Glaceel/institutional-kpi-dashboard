@@ -25,3 +25,36 @@ DIVIDE(
     SUM('Data Penelitian'[Total Dana Grant]), 
     0
 )
+```
+
+## 🛠️ Project Structure
+The project assets are organized cleanly as follows:
+
+institutional-kpi-dashboard/
+├── src/
+│   └── Final Report Penelitian & Publikasi(1).pbit  <-- Power BI Template (Data-free Schema)
+├── assets/
+│   └── dashboard_screenshot.png                     <-- Dashboard UI Preview (Placeholder)
+├── .gitignore                                       <-- Prevents temporary Power BI files from being tracked
+└── README.md                                        <-- Project documentation
+
+## 💡 Key Features & Functionalities
+Interactive KPI Cards: Instantly view high-level metrics with automated conditional formatting (Red/Green indicators) depending on target achievements.
+
+Granular Slicers / Filters: Easily slice the entire report by Year (Tahun) and Program Study (Program Studi) to drill down into specific departmental performance.
+
+Dynamic Semantic Modeling: Structured cross-filtering and relationships designed to maintain model efficiency while handling large datasets.
+
+ ## 🖥️ Preview / Showcase
+(Pro-Tip: Ambil screenshot dari dashboard Power BI kalian, sensor/blur bagian sensitif seperti nama dosen atau nominal anggaran jika diperlukan, simpan ke folder assets/, dan update link gambar di bawah ini!)
+
+## ⚙️ How to Use this Template
+Clone or download this repository:
+
+Bash
+   git clone [https://github.com/YOUR_USERNAME/institutional-kpi-dashboard.git](https://github.com/Glaceel/institutional-kpi-dashboard.git)
+Open the Final Report Penelitian & Publikasi(1).pbit file inside the src/ folder using Power BI Desktop.
+
+Upon opening, Power BI will prompt you to input or connect your local database/Excel data source matching the expected data schema.
+
+Developed as part of a Data Science Data Visualization & Analytics Group Assignment.
