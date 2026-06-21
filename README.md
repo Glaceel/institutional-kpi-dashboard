@@ -46,7 +46,7 @@ Granular Slicers / Filters: Easily slice the entire report by Year (Tahun) and P
 Dynamic Semantic Modeling: Structured cross-filtering and relationships designed to maintain model efficiency while handling large datasets.
 
  ## 🖥️ Preview / Showcase
-(Pro-Tip: Ambil screenshot dari dashboard Power BI kalian, sensor/blur bagian sensitif seperti nama dosen atau nominal anggaran jika diperlukan, simpan ke folder assets/, dan update link gambar di bawah ini!)
+(preview.png)
 
 ## ⚙️ How to Use this Template
 Clone or download this repository:
