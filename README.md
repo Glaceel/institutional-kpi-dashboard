@@ -29,14 +29,11 @@ DIVIDE(
 
 ## 🛠️ Project Structure
 The project assets are organized cleanly as follows:
-```dax
-institutional-kpi-dashboard/
-├── src/
-│   └── Final Report Penelitian & Publikasi(1).pbit  <-- Power BI Template (Data-free Schema)
-├── assets/
-│   └── dashboard_screenshot.png                     <-- Dashboard UI Preview (Placeholder)
-├── .gitignore                                       <-- Prevents temporary Power BI files from being tracked
-└── README.md                                        <-- Project documentation
+```daxinstitutional-kpi-dashboard/
+├── institutional-kpi-dashboard.pbit  <-- Power BI Template (Data-free Schema)
+├── preview.png                       <-- Dashboard UI Preview
+├── .gitignore                        <-- Prevents temporary Power BI files from being tracked
+└── README.md                         <-- Project documentation
 ```
 
 ## 💡 Key Features & Functionalities
