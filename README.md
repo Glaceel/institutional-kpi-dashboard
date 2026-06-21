@@ -53,7 +53,7 @@ Dynamic Semantic Modeling: Structured cross-filtering and relationships designed
 Clone or download this repository:
 ```dax
 Bash
-   git clone [https://github.com/YOUR_USERNAME/institutional-kpi-dashboard.git](https://github.com/Glaceel/institutional-kpi-dashboard.git)
+   git clone https://github.com/Glaceel/institutional-kpi-dashboard.git
 ```
 
 Open the institutional-kpi-dashboard.pbit file inside the src/ folder using Power BI Desktop.
