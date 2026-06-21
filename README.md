@@ -29,7 +29,8 @@ DIVIDE(
 
 ## 🛠️ Project Structure
 The project assets are organized cleanly as follows:
-```daxinstitutional-kpi-dashboard/
+```
+daxinstitutional-kpi-dashboard/
 ├── institutional-kpi-dashboard.pbit  <-- Power BI Template (Data-free Schema)
 ├── preview.png                       <-- Dashboard UI Preview
 ├── .gitignore                        <-- Prevents temporary Power BI files from being tracked
@@ -48,7 +49,7 @@ Dynamic Semantic Modeling: Structured cross-filtering and relationships designed
 
 ## ⚙️ How to Use this Template
 Clone or download this repository:
-```dax
+```
 Bash
    git clone https://github.com/Glaceel/institutional-kpi-dashboard.git
 ```
